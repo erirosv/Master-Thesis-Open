@@ -8,6 +8,7 @@ on microarray data. The data is high dimentional, high amount of columns and low
 amount of rows. All the data is open sourced. 
 
 ## Data
+The table does not show all the colums.
 
 | Name | Instances | Features | Classes |
 | :--------: | :--------: | :--------: | :--------: |
@@ -35,5 +36,11 @@ amount of rows. All the data is open sourced.
 | Yeoh    | 248    | 12625    | 6    |
 
 
-
 ## Algorithms
+The algorithm used are mainly using wrappers and filters, there can also be some hybridsd and embedded.
+
+| Acronyme | Full Name |
+| :--------: | :--------: |
+
+
+
