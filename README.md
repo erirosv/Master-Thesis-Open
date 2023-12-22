@@ -36,11 +36,22 @@ The table does not show all the colums.
 | Yeoh    | 248    | 12625    | 6    |
 
 
-## Algorithms
+## Methods
 The algorithm used are mainly using wrappers and filters, there can also be some hybridsd and embedded.
 
-| Acronyme | Full Name |
+| Acronym | Method |
 | :--------: | :--------: |
+| CFS | Correlation-Based Feature Selection |
+| FScore | FScore |
+| GA | Genetic Algorithm |
+| InfoGain | Information Gain |
+| MRMR | Minimum Redundancy Maximum Relevance |
+| RFI | residual feed intake |
+| ReliefF | Relief-Based Feature Selection |
+| SFS | Sequential Forward Selection |
+| SPFSR | Simultaneous Perturbation Stochastic Approximation for feature selection and ranking |
+
+## Algorithms
 
 
 
