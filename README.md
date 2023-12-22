@@ -52,6 +52,10 @@ The algorithm used are mainly using wrappers and filters, there can also be some
 | SPFSR | Simultaneous Perturbation Stochastic Approximation for feature selection and ranking |
 
 ## Algorithms
-
+The algorithms used are the following:
+- Naïve Bayes
+- K-Nearest Neighbours
+- Decision Tree
+- Support Vector Machine
 
 
