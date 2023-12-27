@@ -7,6 +7,9 @@ This project is benchmarking different classifiactions algorithms agains the SPF
 on microarray data. The data is high dimentional, high amount of columns and low
 amount of rows. All the data is open sourced. 
 
+## Structure of the thesis
+The structure is the classic one. It starts with 
+
 ## Data
 The table does not show all the colums.
 
