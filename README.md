@@ -8,7 +8,12 @@ on microarray data. The data is high dimentional, high amount of columns and low
 amount of rows. All the data is open sourced. 
 
 ## Structure of the thesis
-The structure is the classic one. It starts with 
+The structure is the classic one. An overview of the structure:
+1. Introduction
+2. Theory
+3. Methods
+4. Results
+5. Conclusion
 
 ## Data
 The table does not show all the colums.
