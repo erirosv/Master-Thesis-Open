@@ -60,7 +60,7 @@ The algorithm used are mainly using wrappers and filters, there can also be some
 | SPFSR | Simultaneous Perturbation Stochastic Approximation for feature selection and ranking |
 
 ## Algorithms
-| | |
+| Acronyme | Full Name |
 | :--------: | :--------: |
 | NB | Naïve Bayes |
 | KNN | K-Nearest Neighbours |
