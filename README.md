@@ -1,4 +1,4 @@
-# Master Thesis Open
+# Master Thesis
 
 **IMPORTANT!** A part of the code used for this Master  Thesis is proprietary, hence you need to write it your self.
 
@@ -45,7 +45,7 @@ The table does not show all the colums.
 
 
 ## Methods
-The algorithm used are mainly using wrappers and filters, there can also be some hybridsd and embedded.
+The methods used are mainly using wrappers and filters, there can also be some hybridsd and embedded.
 
 | Acronym | Method |
 | :--------: | :--------: |
@@ -60,6 +60,8 @@ The algorithm used are mainly using wrappers and filters, there can also be some
 | SPFSR | Simultaneous Perturbation Stochastic Approximation for feature selection and ranking |
 
 ## Algorithms
+The algorithms used 
+
 | Acronyme | Full Name |
 | :--------: | :--------: |
 | NB | Naïve Bayes |
