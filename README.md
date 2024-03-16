@@ -1,5 +1,7 @@
 # Master Thesis
 
+The thesis can be cound in the *"docs"* folder.
+
 **IMPORTANT!** A part of the code used for this Master  Thesis is proprietary, hence you need to write it your self.
 
 ## Overview
